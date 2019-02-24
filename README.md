@@ -10,4 +10,4 @@ main page:
 ![alt text](https://github.com/Aboofazeli/proxy_finder/blob/master/index_page.png)
 
 result page:
-![alt text](https://github.com/Aboofazeli/proxy_finder/blob/master/index_page.png)
+![alt text](https://github.com/Aboofazeli/proxy_finder/blob/master/proxy_page.png)
