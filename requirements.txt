@@ -4,3 +4,4 @@ requests==2.21.0
 lxml
 aiohttp
 pandas
+gunicorn
